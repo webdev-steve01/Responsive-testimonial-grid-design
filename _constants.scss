@@ -1,0 +1,16 @@
+.flex{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+img{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid whitesmoke;
+}
+.quote{
+  background-image: url('./images/bg-pattern-quotation.svg');
+  z-index: 1;
+}
